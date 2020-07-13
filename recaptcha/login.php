@@ -22,6 +22,8 @@ include("keys.php");
         <script src='https://www.google.com/recaptcha/api.js?render=<?php echo SITE_KEY; ?>'></script>
 
 
+
+
     </head>
     <body background="https://images6.alphacoders.com/107/thumb-1920-1072679.jpg">
         <header>
